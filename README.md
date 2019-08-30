@@ -7,4 +7,4 @@ To integrate the Tesseract framework into your project, please follow this link:
 
 Simple project screenshot:
 
-![textRec](https://user-images.githubusercontent.com/17040667/64010436-109fb100-cb1a-11e9-9a26-adbd33457759.png)
+![textRec](https://user-images.githubusercontent.com/17040667/64020202-4603c900-cb31-11e9-93d6-24a44066a871.png)
