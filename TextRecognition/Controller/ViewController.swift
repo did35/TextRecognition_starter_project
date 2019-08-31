@@ -23,10 +23,7 @@ class ViewController: UIViewController {
     }
 }
 
-extension ViewController: UINavigationControllerDelegate {
-}
-
-extension ViewController: UIImagePickerControllerDelegate {
+extension ViewController: UIImagePickerControllerDelegate, UINavigationControllerDelegate {
     func imagePickerController(_ picker: UIImagePickerController, didFinishPickingMediaWithInfo info: [UIImagePickerController.InfoKey : Any]){
         // To do
     }
